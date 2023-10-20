@@ -1,0 +1,3 @@
+standard_user,secret_sauce,success
+standard_user,secret_sauc,failed
+locked_out_user,secret_sauce,locked
